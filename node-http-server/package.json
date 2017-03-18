@@ -1,0 +1,9 @@
+{
+    "devDependencies": {
+        "bs-platform": "1.5.2"
+    },
+    "scripts" : {
+        "build" : "bsb -make-world",
+        "server" : "node lib/js/src/index.js"
+    }
+}
