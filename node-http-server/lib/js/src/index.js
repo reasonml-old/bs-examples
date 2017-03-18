@@ -20,9 +20,4 @@ function create_server(http) {
 
 create_server(Http);
 
-var port = 3000;
-
-exports.port          = port;
-exports.hostname      = hostname;
-exports.create_server = create_server;
 /*  Not a pure module */

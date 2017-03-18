@@ -22,7 +22,7 @@
  * along with this program; if not, write to the Free Software
  * Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA. *)
 
-
+[@@@bs.config {no_export}]
 let port = 3000
 let hostname = "127.0.0.1"
 let create_server http  = 

@@ -4,6 +4,7 @@
     },
     "scripts" : {
         "build" : "bsb -make-world",
-        "server" : "node lib/js/src/index.js"
+        "server" : "node lib/js/src/index.js",
+        "watch" : "bsb -make-world -w"
     }
 }
