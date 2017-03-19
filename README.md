@@ -1,5 +1,5 @@
 
-This repo provide users some [examples](./examples) showing how to use
+This repo provide users some examples showing how to use
 BuckleScript. 
 
 For documentation of BuckleScript, see
