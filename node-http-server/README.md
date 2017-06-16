@@ -2,7 +2,7 @@
 
 A small example to show how to make a http server using BuckleScript
 
-# [BuckleScript](http://bloomberg.github.io/bucklescript/) Demo
+# [BuckleScript](http://bucklescript.github.io/bucklescript/) Demo
 
 
 
